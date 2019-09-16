@@ -2,6 +2,7 @@ body
 {
     
     background: url(BG/bg.svg) no-repeat center center;
+   
     background-size: cover;
     height:1312px;
     width:1750px;
@@ -42,3 +43,63 @@ header
     width:283px;
 }
 
+.Statistics
+{
+    background-color:#FFFFFF;
+    position: absolute;
+    left:783px;
+    top: 245px;
+    height:367px;
+    width:590px;
+}
+
+.MontlyEarning
+{
+    background-color:#FFFFFF;
+    position: absolute;
+    left:475px;
+    top: 637px;
+    height:367px;
+    width:283px;
+}
+
+.MontlySale
+{
+    background-color:#FFFFFF;
+    position: absolute;
+    left:783px;
+    top: 637px;
+    height:171px;
+    width:283px;
+}
+
+.YeallySale
+{
+    background-color:#FFFFFF;
+    position: absolute;
+    left:783px;
+    top: 833px;
+    height:171px;
+    width:283px;  
+}
+
+.Calander
+{
+    background-color:#FFFFFF;
+    position: absolute;
+    left:1090px;
+    top: 637px;
+    height:367px;
+    width:283px;  
+}
+
+.BodyBG
+{
+    background-color:#FFFFFF;
+    position: absolute;
+    height:900px;
+    width:950px;
+    left:475px;
+    top: 160px;
+    opacity:0.7;
+}
