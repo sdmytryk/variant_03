@@ -1,0 +1,44 @@
+body
+{
+    
+    background: url(BG/bg.svg) no-repeat center center;
+    background-size: cover;
+    height:1312px;
+    width:1750px;
+    left:-54px;
+    top: -112px;
+    opacity:0.7;
+}
+
+header
+{
+    background-color:#FFFFFF;
+    position: absolute;
+    border-bottom: 1px solid #E4D6D5;
+    left:475px;
+    top: 160px;
+    height:61px;
+	width:950px;
+}
+
+.menu
+{
+    background-color:#FFFFFF;
+    position: absolute;
+    left:225px;
+    top: 160px;
+    height:900px;
+    width:250px;
+    opacity:0.4;
+}
+
+.MyCreditCard
+{
+    background-color:#FFFFFF;
+    position: absolute;
+    left:475px;
+    top: 245px;
+    height:367px;
+    width:283px;
+}
+
